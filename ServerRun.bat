@@ -1,1 +1,1 @@
-java -Xms1024M -Xmx1024M -jar spigot-1.15.2.jar
+java -Xms2048M -Xmx2048M -jar spigot-1.15.2.jar
