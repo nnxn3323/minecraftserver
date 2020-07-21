@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-07-21 15:18:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2020-07-19 16:42:21 +0900"
@@ -409,6 +415,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-07-21 15:15:35 +0900",
       "cooked_beef": "2020-07-17 20:52:39 +0900",
       "golden_apple": "2020-07-18 14:48:17 +0900",
       "bread": "2020-07-18 15:33:27 +0900",
@@ -433,6 +440,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2020-07-18 16:05:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-07-21 15:08:03 +0900"
     },
     "done": true
   },
@@ -616,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-07-21 15:18:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2020-07-17 19:55:34 +0900"
@@ -718,6 +737,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-07-17 20:23:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-07-21 15:24:41 +0900"
     },
     "done": true
   },
@@ -996,10 +1021,13 @@
       "minecraft:blaze": "2020-07-18 15:43:53 +0900",
       "minecraft:pillager": "2020-07-19 16:27:34 +0900",
       "minecraft:skeleton": "2020-07-17 20:54:34 +0900",
+      "minecraft:zombie_pigman": "2020-07-21 15:11:56 +0900",
+      "minecraft:ghast": "2020-07-21 15:24:41 +0900",
       "minecraft:vindicator": "2020-07-19 16:41:38 +0900",
       "minecraft:spider": "2020-07-17 20:28:27 +0900",
       "minecraft:creeper": "2020-07-17 20:42:28 +0900",
       "minecraft:wither_skeleton": "2020-07-18 16:02:31 +0900",
+      "minecraft:cave_spider": "2020-07-21 15:57:54 +0900",
       "minecraft:enderman": "2020-07-18 15:28:34 +0900",
       "minecraft:zombie": "2020-07-17 20:08:23 +0900",
       "minecraft:zombie_villager": "2020-07-18 15:06:20 +0900"
@@ -1021,6 +1049,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2020-07-18 16:11:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-07-21 15:19:06 +0900"
     },
     "done": true
   },
@@ -1111,6 +1145,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-07-19 18:17:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-07-21 15:08:03 +0900"
     },
     "done": true
   },
@@ -1546,6 +1586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-07-21 15:18:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_jungle_planks": "2020-07-17 19:55:33 +0900"
@@ -1861,6 +1907,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-07-17 20:23:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-07-21 15:17:15 +0900"
     },
     "done": true
   },
